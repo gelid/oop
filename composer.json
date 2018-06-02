@@ -1,0 +1,9 @@
+{
+    "name": "gelid/oop",
+    "require": {},
+    "autoload": {
+      "psr-0": {
+        "Pattern\\Strateg\\": "strateg/"
+      }
+    }
+}
